@@ -2,7 +2,7 @@ import socket
 import threading
 import time
 import numpy as np
-import donkeycar.parts.libh264decoder as libh264decoder
+import parts.libh264decoder as libh264decoder
 
 """Python3"""
 
